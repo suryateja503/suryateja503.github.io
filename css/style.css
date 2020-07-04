@@ -1,12 +1,12 @@
 
 /* import fonts */
-@import url('D:\Myportfolio\css\fonts.css')
+@import url('.\css\fonts.css')
 
 /*import variables */
-@import url('D:\Myportfolio\partials\variables.css')
+@import url('.\partials\variables.css')
 
 /* import globals */
-@import url('D:\Myportfolio\partials\globals.css')
+@import url('.\partials\globals.css')
 
 
 /* start navigation */
